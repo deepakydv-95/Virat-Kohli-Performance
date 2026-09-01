@@ -168,5 +168,5 @@ It is designed as a portfolio project to demonstrate **Data Analyst and Business
 
 ---
 
-⭐ If you find this project useful, consider giving the repository a star!
+
 
