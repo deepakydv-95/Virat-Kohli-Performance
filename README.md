@@ -121,16 +121,6 @@ The dashboard helps answer questions such as:
 * Which format had the strongest overall performance?
 * How does his performance index vary across Test, ODI, and T20?
 
----
-
-## 📸 Dashboard Preview
-
-> Add your Power BI dashboard screenshot here.
-
-```markdown
-![Virat Kohli Performance Dashboard](dashboard.png)
-
-```
 
 ---
 
