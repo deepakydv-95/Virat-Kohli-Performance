@@ -129,25 +129,7 @@ The dashboard helps answer questions such as:
 
 ```markdown
 ![Virat Kohli Performance Dashboard](dashboard.png)
-```
 
----
-
-## 📁 Project Structure
-
-```text
-Virat-Kohli-Performance-Analysis/
-│
-├── Dataset/
-│   └── virat_kohli_data.csv
-│
-├── Dashboard/
-│   └── Virat_Kohli_Performance.pbix
-│
-├── Images/
-│   └── dashboard.png
-│
-└── README.md
 ```
 
 ---
